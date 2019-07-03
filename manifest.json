@@ -12,12 +12,8 @@
     "react": "3.x"
   },
   "dependencies": {
-    "vtex.graphql-example": "0.x",
     "vtex.styleguide": "9.x"
   },
   "mustUpdateAt": "2020-07-02",
-  "registries": [
-    "smartcheckout"
-  ],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
